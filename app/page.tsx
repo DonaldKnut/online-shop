@@ -41,7 +41,7 @@ export default function Home() {
               <h1 className="text-white text-5xl mb-5">
                 Hey, Shopper
                 <span className="highlight_text_emphasized text-orange-200 text-5xl">
-                  .
+                  &apos;
                 </span>
               </h1>
             </Reveal>
