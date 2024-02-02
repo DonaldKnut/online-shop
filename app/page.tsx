@@ -47,7 +47,7 @@ export default function Home() {
             </Reveal>
             <Reveal>
               <h4 className="text-white text-3xl">
-                let's help you{" "}
+                let&lsquo;s help you{" "}
                 <span className="highlight_text_emphasized text-orange-500 text-3xl">
                   shop and track products
                 </span>
